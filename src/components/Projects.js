@@ -37,13 +37,13 @@ export const Projects = () => {
       title: "Portfolio Website",
       description: "Development & Design",
       imgUrl: projImg2,
-      link: "https://github.com/ymorii/ymoriai-react",
+      link: "https://github.com/ymoricode/dimassr",
     },
     {
       title: "Menu Digital Warung Bakso Putra Solo",
       description: "Development & Design",
       imgUrl: projImg3,
-      link: "https://github.com/ymorii/ymoriai-react",
+      link: "https://github.com/ymoricode/menudigital-web-app",
     },
   ];
 
